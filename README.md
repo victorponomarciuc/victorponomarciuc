@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @victorponomarciuc
+- 👀 I’m interested in web Programing
+- 🌱 I’m currently learning JAVA, Python PHP
+- 💞️ I’m looking to collaborate on you projects
+- 📫 Contact me: victor.ponomarciuc@gmail.com
